@@ -1,8 +1,5 @@
 # Delivery Task Optimizer - Comparative Algorithm Analysis
 
-**Author:** Alec Hoedwin (Kenya)  
-**Language:** JavaScript (Node.js)
-
 ## Problem
 
 Select the maximum number of non-overlapping delivery tasks a single driver can perform. Two approaches compared: **Brute-Force** (all combinations) vs **Greedy** (earliest end time).
