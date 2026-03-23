@@ -43,7 +43,7 @@ Brute-force becomes unusable past n = 22 (~388 ms) and is physically impossible 
 
 ## Recommendation
 
-**Use the Greedy algorithm.** It is provably optimal, runs in O(n log n), uses O(n) memory, and handles real-time throughput easily.
+**Use the Greedy algorithm.** It runs in O(n log n), uses O(n) memory, and handles real-time throughput easily.
 
 Brute-force remains useful only as a **test oracle** for verifying correctness on small inputs (n <= 20), and for educational demonstration of why greedy/DP solutions matter.
 
